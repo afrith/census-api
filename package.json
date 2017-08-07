@@ -1,0 +1,25 @@
+{
+  "name": "census-api",
+  "version": "0.0.1",
+  "description": "API for data from South African censuses (under development)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afrith/census-api.git"
+  },
+  "author": "Adrian Frith <adrian@adrianfrith.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afrith/census-api/issues"
+  },
+  "homepage": "https://github.com/afrith/census-api#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "morgan": "^1.8.2",
+    "pg-promise": "^6.3.7"
+  }
+}
