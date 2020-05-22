@@ -1,2 +1,1 @@
-# census-api
-API for data from South African censuses (under development)
+See https://github.com/afrith/census-graphql-api
